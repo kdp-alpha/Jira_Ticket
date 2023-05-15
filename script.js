@@ -10,7 +10,7 @@ let toolBoxColors = document.querySelectorAll(".color");
 let colors = ["lightpink","lightblue","lightgreen","black"];
 let modalPriority = colors[colors.length-1];
 
-let ticketsArr = [];
+let ticketsArr;
 
 
 let addFlag = false;
